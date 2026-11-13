@@ -167,3 +167,7 @@ npm run dev       # SPA en http://localhost:5173
 ---
 
 <p align="center">Hecho con cariño para un mercado de barrio 🥑</p>
+
+<a href="https://github.com/Sureshum">
+  <img src="https://media1.tenor.com/m/Le-MlYKw5AIAAAAC/hololive.gif" width="100%" alt="Header Banner" />
+</a>
