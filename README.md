@@ -16,7 +16,6 @@ Este repositorio es la **cara pública del proyecto**: documenta qué hace la p�
 | Entorno | URL |
 |---|---|
 | 🛍️ Tienda en vivo (API + PostgreSQL) | **https://ssmarket-tienda.onrender.com** |
-| 🧪 Demo estática (sin backend) | `https://sureshum.github.io/mercado-virtual-demo/` *(al publicar en GitHub Pages)* |
 
 > La tienda está desplegada en el plan gratuito de Render: si lleva más de 15 minutos sin visitas, el primer acceso puede tardar unos segundos en despertar.
 
