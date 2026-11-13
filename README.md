@@ -15,7 +15,7 @@ Este repositorio es la **cara pública del proyecto**: documenta qué hace la p�
 
 | Entorno | URL |
 |---|---|
-| 🛍️ Tienda en vivo (API + PostgreSQL) | **https://ssmarket-tienda.onrender.com** |
+| 🛍️ Tienda en vivo (API + PostgreSQL) | **https://mercado-virtual-mpdh.onrender.com** |
 
 > La tienda está desplegada en el plan gratuito de Render: si lleva más de 15 minutos sin visitas, el primer acceso puede tardar unos segundos en despertar.
 
